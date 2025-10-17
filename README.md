@@ -1,64 +1,80 @@
-📊 Audible Dataset Cleaning — Excel Case Study
-📌 Project Overview
+📘 Audible Data Cleaning Project
 
-This case study demonstrates how to utilize Power Query Editor in Excel to clean and standardize an Audible dataset. The objective is to ensure data consistency, accuracy, and readiness for analysis by applying various data transformation techniques.
+Module 2 Case Study – Assignment Instructions
 
-📝 Case Study Description
+🧩 Project Overview
 
-The dataset required multiple cleaning and formatting tasks to prepare it for meaningful analysis. Using Power Query, the following steps were performed:
+This case study focuses on data cleaning and standardization using Power Query Editor in Microsoft Excel.
+The dataset contains information about Audible audiobooks, including titles, authors, narrators, release dates, durations, prices, ratings, and languages.
 
-🔹 Data Cleaning & Transformation Tasks
+Your task is to clean, transform, and prepare this dataset for analysis by ensuring data consistency, standard formatting, and accurate data types.
 
-Name Standardization
+📂 Dataset
 
-Converted all entries in the name column to consistent title case.
+Dataset Name: Audible Dataset
 
-Author Column Split
+Download Link: Google Drive - Audible Dataset
 
-Separated combined names in the author column into individual authors.
+🧮 Objectives & Tasks
 
-Release Date Formatting
+Use Power Query Editor in Excel to perform the following data cleaning steps:
 
-Ensured all entries in the releasedate column follow a DD-MM-YYYY format.
+Standardize the Name Column
 
-Duration Conversion
+Ensure all entries follow Title Case formatting for consistency.
 
-Converted the time column from text to a recognized duration format.
+Clean the Author Column
 
-Price Column Standardization
+Separate combined author names into individual entries if multiple authors are listed.
 
-Ensured the price column is numeric.
+Format the Release Date Column
 
-Identified and handled non-numeric values.
+Convert all entries to the date format DD-MM-YYYY.
 
-Applied consistent currency formatting with two decimal places.
+Convert the Time Column
 
-Ratings Transformation
+Transform the time data from text format to duration format recognized by Excel.
 
-Converted text-based ratings in the stars column into numeric values.
+Format the Price Column
 
-Narrators Column Split
+Convert price values to numeric format.
 
-Split the narratedby column into multiple columns when multiple narrators are listed.
+Identify and handle any non-numeric entries.
 
-Release Info Column Creation
+Ensure all currency values display two decimal places.
 
-Merged releasedate and language columns into a new column:
+Convert Ratings (Stars Column)
 
-releaseinfo → "DD-MM-YYYY, Language"
+Change text-based ratings into numeric values for easier analysis.
 
-🛠️ Tools Used
+Split the Narrated By Column
 
-Microsoft Excel
+Separate multiple narrators into individual columns.
 
-Power Query Editor
+Create a Combined Column (Release Info)
 
-🚀 Outcome
+Merge releasedate and language into a new column named releaseinfo
 
-By cleaning and standardizing the Audible dataset, the data is now:
+Format: DD-MM-YYYY, Language
 
-Consistent and error-free.
+🛠️ Tools & Technologies
 
-Properly formatted for analysis.
+Microsoft Excel (Power Query Editor)
 
-Ready to be used for reporting and visualization.
+Data Cleaning & Transformation Techniques
+
+📈 Expected Outcomes
+
+After completing this case study, you will have:
+
+A cleaned and standardized dataset ready for analysis.
+
+Hands-on experience with Excel Power Query transformations.
+
+Improved understanding of data preprocessing workflows.
+
+🧑‍💻 Author
+
+Farook Mohammad
+Module 2 – Case Study Submission
+Audible Data Cleaning Project
