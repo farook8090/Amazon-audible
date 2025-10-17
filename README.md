@@ -1,21 +1,21 @@
-📘 Audible Data Cleaning Project
+# 📘 Audible Data Cleaning Project
 
 Module 2 Case Study – Assignment Instructions
 
-🧩 Project Overview
+# 🧩 Project Overview
 
 This case study focuses on data cleaning and standardization using Power Query Editor in Microsoft Excel.
 The dataset contains information about Audible audiobooks, including titles, authors, narrators, release dates, durations, prices, ratings, and languages.
 
 Your task is to clean, transform, and prepare this dataset for analysis by ensuring data consistency, standard formatting, and accurate data types.
 
-📂 Dataset
+# 📂 Dataset
 
 Dataset Name: Audible Dataset
 
 Download Link: Google Drive - Audible Dataset
 
-🧮 Objectives & Tasks
+# 🧮 Objectives & Tasks
 
 Use Power Query Editor in Excel to perform the following data cleaning steps:
 
@@ -57,13 +57,13 @@ Merge releasedate and language into a new column named releaseinfo
 
 Format: DD-MM-YYYY, Language
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 Microsoft Excel (Power Query Editor)
 
 Data Cleaning & Transformation Techniques
 
-📈 Expected Outcomes
+# 📈 Expected Outcomes
 
 After completing this case study, you will have:
 
